@@ -1,6 +1,9 @@
 #!/bin/bash
 #Description: Script to display system info
+#Author: wulio
+#Date July 21
 
 lscpu
 nproc
 cat /etc/*release
+lsblk
