@@ -1,6 +1,8 @@
 #!/bin/bash
-
+#Author: wulio
+#Date July 21
 
 lscpu
 nproc
 cat /etc/*release
+lsblk
